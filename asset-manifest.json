@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bezimianny-theatre/static/css/main.09426ef5.css",
+    "main.js": "/bezimianny-theatre/static/js/main.09854165.js",
+    "index.html": "/bezimianny-theatre/index.html",
+    "main.09426ef5.css.map": "/bezimianny-theatre/static/css/main.09426ef5.css.map",
+    "main.09854165.js.map": "/bezimianny-theatre/static/js/main.09854165.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09426ef5.css",
+    "static/js/main.09854165.js"
+  ]
+}
